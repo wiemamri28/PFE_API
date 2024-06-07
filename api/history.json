@@ -1,0 +1,182 @@
+[
+    {
+        "class": "Blueberry___healthy",
+        "confidence": 0.9886525273323059,
+        "username": "hama"
+    },
+    {
+        "class": "Blueberry___healthy",
+        "confidence": 0.9886525273323059,
+        "username": "wiem"
+    },
+    {
+        "class": "Blueberry___healthy",
+        "confidence": 0.8812810182571411,
+        "username": "tes"
+    },
+    {
+        "class": "Cherry_(including_sour)___Powdery_mildew",
+        "confidence": 0.9421859979629517,
+        "username": "wi"
+    },
+    {
+        "class": "Corn_(maize)___Common_rust_",
+        "confidence": 1.0,
+        "username": "exp"
+    },
+    {
+        "class": "Grape___Black_rot",
+        "confidence": 1.0,
+        "username": "tst1"
+    },
+    {
+        "class": "Grape___Esca_(Black_Measles)",
+        "confidence": 0.9616617560386658,
+        "username": "tst1"
+    },
+    {
+        "class": "Pepper,_bell___Bacterial_spot",
+        "confidence": 0.948764443397522,
+        "username": "tst1"
+    },
+    {
+        "class": "Grape___Esca_(Black_Measles)",
+        "confidence": 0.9616617560386658,
+        "username": "tst1"
+    },
+    {
+        "class": "Pepper,_bell___healthy",
+        "confidence": 1.0,
+        "username": "tst1"
+    },
+    {
+        "class": "Apple___Black_rot",
+        "confidence": 0.979891836643219,
+        "username": "tst1"
+    },
+    {
+        "class": "Grape___Esca_(Black_Measles)",
+        "confidence": 0.9496926665306091,
+        "username": "tst1"
+    },
+    {
+        "class": "Apple___Black_rot",
+        "confidence": 0.9999954700469971,
+        "username": "tst1"
+    },
+    {
+        "class": "Grape___Esca_(Black_Measles)",
+        "confidence": 0.8385040760040283,
+        "username": "tst1"
+    },
+    {
+        "class": "Peach___healthy",
+        "confidence": 0.9429702758789062,
+        "username": "tst1"
+    },
+    {
+        "class": "Grape___Esca_(Black_Measles)",
+        "confidence": 0.8385040760040283,
+        "username": "tst1"
+    },
+    {
+        "class": "Corn_(maize)___Common_rust_",
+        "confidence": 1.0,
+        "username": "tst1"
+    },
+    {
+        "class": "Corn_(maize)___Common_rust_",
+        "confidence": 1.0,
+        "username": "tst1"
+    },
+    {
+        "class": "Corn_(maize)___Common_rust_",
+        "confidence": 1.0,
+        "username": "tst1"
+    },
+    {
+        "class": "Corn_(maize)___Common_rust_",
+        "confidence": 1.0,
+        "username": "tst1"
+    },
+    {
+        "class": "Grape___Esca_(Black_Measles)",
+        "confidence": 0.9496926665306091,
+        "username": "tst1"
+    },
+    {
+        "class": "Grape___Esca_(Black_Measles)",
+        "confidence": 0.9496926069259644,
+        "username": "kjhgf"
+    },
+    {
+        "class": "Cherry_(including_sour)___healthy",
+        "confidence": 0.9996789693832397,
+        "username": "kjhgf"
+    },
+    {
+        "class": "Cherry_(including_sour)___healthy",
+        "confidence": 0.9996789693832397,
+        "username": "gh"
+    },
+    {
+        "class": "Grape___Esca_(Black_Measles)",
+        "confidence": 0.7597569823265076,
+        "username": "ghjh"
+    },
+    {
+        "class": "Potato___Late_blight",
+        "confidence": 1.0,
+        "username": "kbg"
+    },
+    {
+        "class": "Peach___Bacterial_spot",
+        "confidence": 0.9966333508491516,
+        "username": "kbg"
+    },
+    {
+        "class": "Blueberry___healthy",
+        "confidence": 1.0,
+        "username": ";lkj"
+    },
+    {
+        "class": "Blueberry___healthy",
+        "confidence": 0.8812810778617859,
+        "username": ";lkj"
+    },
+    {
+        "class": "Pepper,_bell___healthy",
+        "confidence": 0.7865021824836731,
+        "username": "test"
+    },
+    {
+        "class": "Orange___Haunglongbing_(Citrus_greening)",
+        "confidence": 0.9534634947776794,
+        "username": "test"
+    },
+    {
+        "class": "Apple___Apple_scab",
+        "confidence": 0.9999996423721313,
+        "username": "test"
+    },
+    {
+        "class": "Apple___Apple_scab",
+        "confidence": 0.9999996423721313,
+        "username": "test"
+    },
+    {
+        "class": "Potato___healthy",
+        "confidence": 0.9920234680175781,
+        "username": "test"
+    },
+    {
+        "class": "Corn_(maize)___Common_rust_",
+        "confidence": 0.9999970197677612,
+        "username": "test"
+    },
+    {
+        "class": "Potato___Late_blight",
+        "confidence": 1.0,
+        "username": "test"
+    }
+]
